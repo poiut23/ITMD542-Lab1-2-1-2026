@@ -210,3 +210,13 @@ header {
 	outline: none;
 }
 
+
+#signup-form textarea::placeholder {
+	color: rgba(17, 17, 17, 0.6);
+}
+
+#signup-form textarea:focus {
+	border-color: rgba(255, 255, 255, 0.9);
+	box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+}
+
