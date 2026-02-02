@@ -12,4 +12,5 @@ This lab builds a simple homepage using HTML and CSS.
 
 ## How to View
 
-Open index.html in a browser.
+
+[Resume](https://poiut23.github.io/ITMD542-Lab1-2-1-2026/)
