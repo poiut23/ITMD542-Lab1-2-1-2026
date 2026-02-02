@@ -80,3 +80,23 @@ header {
 	backdrop-filter: blur(4px);
 }
 
+#main-content section {
+	padding: 24px 0;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+#main-content section:last-child {
+	border-bottom: none;
+}
+
+#main-content h1,
+#main-content h2 {
+	margin: 0 0 12px;
+	letter-spacing: 0.5px;
+}
+
+#main-content p {
+	margin: 0 0 16px;
+	line-height: 1.6;
+	color: rgba(255, 255, 255, 0.9);
+}
