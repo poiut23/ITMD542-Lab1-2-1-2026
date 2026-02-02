@@ -185,3 +185,15 @@ header {
 	outline: none;
 }
 
+
+#signup-form input[type="text"]::placeholder,
+#signup-form input[type="email"]::placeholder {
+	color: rgba(255, 255, 255, 0.7);
+}
+
+#signup-form input[type="text"]:focus,
+#signup-form input[type="email"]:focus {
+	border-color: rgba(255, 255, 255, 0.7);
+	box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.15);
+}
+
